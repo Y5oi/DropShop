@@ -1,3 +1,3 @@
 # DropShop
 a place for everything 
-https://dropshopmarket.com/
+https://dropshopmarket.wordpress.com/
