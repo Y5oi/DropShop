@@ -1,2 +1,2 @@
 # DropShop
-DropShop, a place for everything 
+a place for everything 
